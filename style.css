@@ -96,6 +96,10 @@ a {
   cursor: pointer;
 }
 
+.button:hover {
+  background: #4fb490;
+}
+
 .footer {
   font-size: 14px;
   line-height: 28px;
